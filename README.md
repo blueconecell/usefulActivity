@@ -24,3 +24,5 @@
 ## 컴퓨터 사이언스 개념 정리 깃허브
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
   - [한국어 번역 진행중](https://github.com/jwasham/coding-interview-university/issues/118)
+## 머신러닝 로드맵
+- [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
