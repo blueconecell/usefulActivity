@@ -21,6 +21,16 @@
   - 기본교육 : 2022. 6. 20(월) ~ 2022. 6. 30(목)
   - 최종합격자 발표 및 업무 수행 : 2022. 7. 1(금) ~ 2022. 11. 30(수)
 
+## LG Aimers
+
+- [LG Aimers AI & 해커톤](https://lgaimers.ai/)
+  - [지원하기](https://lgaimers.ai/)
+- 프로그램 여정
+  - 지원서 접수 : 2022. 6. 7(화) ~ 2022. 6. 22(수)
+  - 교육 참가자 안내 : 2022. 6. 27(월)
+  - Phase 1. 온라인 AI 교육 : 2022. 7. 4(월) ~ 2022. 7. 29(금)
+  - Phase 2. LG AI 해커톤 : 2022. 8. 1(월) ~ 2022. 8. 26(금)
+
 ## 컴퓨터 사이언스 개념 정리 깃허브
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
   - [한국어 번역 진행중](https://github.com/jwasham/coding-interview-university/issues/118)
