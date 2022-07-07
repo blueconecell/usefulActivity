@@ -36,3 +36,8 @@
   - [한국어 번역 진행중](https://github.com/jwasham/coding-interview-university/issues/118)
 ## 머신러닝 로드맵
 - [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
+## 머신러닝 예제
+
+- 나동빈님의 3분만에 만드는 인공지능 서비스
+  - [ndb796/CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning
+](https://github.com/ndb796/CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning)
