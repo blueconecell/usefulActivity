@@ -31,6 +31,8 @@
   - Phase 1. 온라인 AI 교육 : 2022. 7. 4(월) ~ 2022. 7. 29(금)
   - Phase 2. LG AI 해커톤 : 2022. 8. 1(월) ~ 2022. 8. 26(금)
 
+## 주니어 개발자를 위한 취업 정보(이동욱님 깃허브)
+- [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 ## 컴퓨터 사이언스 개념 정리 깃허브
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
   - [한국어 번역 진행중](https://github.com/jwasham/coding-interview-university/issues/118)
