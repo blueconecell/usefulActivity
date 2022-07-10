@@ -34,6 +34,7 @@
 - [Docker Images](https://hub.docker.com/r/heatonresearch/jupyter-python-r/)
 - [youtube tutor2018](https://www.youtube.com/watch?v=_Lo-5SZDDEc)
 - [youtube tutor2020](https://www.youtube.com/watch?v=DxET43rUkig)
+- [youtube tutor(How can we use AWS lambda and Tensorflow to serve deep learning models // Alexey Grigorev)](https://www.youtube.com/watch?v=k-vgZaNPX5s)
 
 
 ## 주니어 개발자를 위한 취업 정보(이동욱님 깃허브)
