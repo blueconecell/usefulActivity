@@ -32,7 +32,8 @@
   - Phase 2. LG AI 해커톤 : 2022. 8. 1(월) ~ 2022. 8. 26(금)
 ## Docker Images for TensorFlow / Keras
 - [Docker Images](https://hub.docker.com/r/heatonresearch/jupyter-python-r/)
-- [youtube tutor](https://www.youtube.com/watch?v=_Lo-5SZDDEc)
+- [youtube tutor2018](https://www.youtube.com/watch?v=_Lo-5SZDDEc)
+- [youtube tutor2020](https://www.youtube.com/watch?v=DxET43rUkig)
 
 
 ## 주니어 개발자를 위한 취업 정보(이동욱님 깃허브)
