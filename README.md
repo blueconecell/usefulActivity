@@ -31,6 +31,7 @@
   - Phase 1. 온라인 AI 교육 : 2022. 7. 4(월) ~ 2022. 7. 29(금)
   - Phase 2. LG AI 해커톤 : 2022. 8. 1(월) ~ 2022. 8. 26(금)
 ## Docker Images for TensorFlow / Keras
+- [딥러닝 모델의 API화(aws lambda)](https://aimaster.tistory.com/62)
 - [Docker Images](https://hub.docker.com/r/heatonresearch/jupyter-python-r/)
 - [youtube tutor2018](https://www.youtube.com/watch?v=_Lo-5SZDDEc)
 - [youtube tutor2020](https://www.youtube.com/watch?v=DxET43rUkig)
