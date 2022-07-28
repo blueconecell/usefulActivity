@@ -27,6 +27,11 @@
   - [한국어 번역 진행중](https://github.com/jwasham/coding-interview-university/issues/118)
 ## 머신러닝 로드맵
 - [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
+## 머신러닝 추천도서
+- 밑바닥부터 시작하는 딥러닝 1~3 (한빛미디어)
+- GAN 첫걸음 (한빛미디어)
+- 신경망 첫걸음 (한빛미디어)
+
 ## 머신러닝 예제
 
 - 나동빈님의 3분만에 만드는 인공지능 서비스
