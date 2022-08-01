@@ -2,14 +2,7 @@
 유용한 활동이나 프로그램 정보를 공유합니다.
 <br>
 # 2022
-## 네이버 커넥트재단 부스트캠프 AI TECH 4기
-- [부스트캠프 AI Tech 4기 모집](https://apply.connect.or.kr/connect/applyDetail?annoId=20008491)
-  - [지원하기](https://apply.connect.or.kr/connect/login/login?annoId=20008491&classId=&jobId=&entTypeCd=010&sysCompanyCd=NX)
-- 상세정보
-  - 모집기간 : ~ 2022. 8. 1(월) 오전 10시
-  - 모집분야 : 
-  - 모집인원 : 250명
-  - 모집대상 : 교육기간 동안 월~금, 10:00 ~ 17:00에 참여할 수 있는 분
+- .
   
 ## Docker Images for TensorFlow / Keras
 - [딥러닝 모델의 API화(aws lambda)](https://aimaster.tistory.com/62)
