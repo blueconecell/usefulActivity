@@ -15,6 +15,10 @@
 ## JAX(Python & Numpy)
 - https://jjeamin.github.io/posts/jax/ 
 
+
+## flask gradio
+
+
 ## 주니어 개발자를 위한 취업 정보(이동욱님 깃허브)
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 ## 컴퓨터 사이언스 개념 정리 깃허브
