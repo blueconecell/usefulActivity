@@ -2,7 +2,7 @@
 유용한 활동이나 프로그램 정보를 공유합니다.
 <br>
 # 2022
--
+- [2023 KAKAO BLIND RECRUITMENT 1차 코딩테스트](https://blueconecell.tistory.com/68)
   
 ## Docker Images for TensorFlow / Keras
 - [딥러닝 모델의 API화(aws lambda)](https://aimaster.tistory.com/62)
