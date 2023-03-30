@@ -39,3 +39,6 @@
 - 나동빈님의 3분만에 만드는 인공지능 서비스
   - [ndb796/CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning
 ](https://github.com/ndb796/CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning)
+
+## WEB
+- [html, css, js 설명 사이트](https://ofcourse.kr/)
