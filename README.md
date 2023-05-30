@@ -42,3 +42,4 @@
 
 ## WEB
 - [html, css, js 설명 사이트](https://ofcourse.kr/)
+- [js alert module](https://github.com/t4t5/sweetalert)
