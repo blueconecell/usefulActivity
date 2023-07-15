@@ -1,8 +1,10 @@
 # usefulActivity
 유용한 활동이나 프로그램 정보를 공유합니다.
 <br>
-# 2022
+# 채용
 - [2023 KAKAO BLIND RECRUITMENT 1차 코딩테스트](https://blueconecell.tistory.com/68)
+- [네이버 공채](https://recruit.navercorp.com/micro/teamnaver/tech#n)
+  - 3월 29일 ~ 4월 10일
 ## 로드맵
 - [roadmap.sh](https://roadmap.sh/)
 ## Docker Images for TensorFlow / Keras
